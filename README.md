@@ -1,3 +1,5 @@
+User Data for Dependencies installations for AMAZON Linux 2:-
+
 #!/bin/bash
 sudo yum -y update
 sudo yum -y install ruby
